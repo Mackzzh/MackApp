@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MackApp</string>
+    <string name="editText_gravity">top</string>
+</resources>
